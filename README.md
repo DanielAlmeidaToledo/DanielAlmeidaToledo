@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/danielalmeidatoledo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielalmeidatoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalmeidatoledo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalmeidatoledo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
