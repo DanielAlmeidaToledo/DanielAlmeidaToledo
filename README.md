@@ -1,21 +1,21 @@
-[![DanielToledo](![TechBlue Gradient Header Banner](https://user-images.githubusercontent.com/96501443/201989091-45664921-7d06-4a39-9985-e5c30bd907b4.png))](https://portfolio-danieltoledo.vercel.app/)
+![TechBlue Gradient Header Banner](https://user-images.githubusercontent.com/96501443/201989091-45664921-7d06-4a39-9985-e5c30bd907b4.png))](https://portfolio-danieltoledo.vercel.app/)
 <h1 align="center">Hi 👋, I'm Daniel Toledo</h1>
 <h3 align="center">A Front End developer from Brazil</h3>
 
 - 👨🏻‍💻 I currently work as a **development intern**
 
-- 🚀 I’m currently learning **React.JS**
+- 🚀 I'm currently learning **React.JS** and **Angular**
 
 - 📫 How to reach me **danieltoledo.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/danielalmeidadetoledo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-DanielToledo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/danieltoledo_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram-DanielToledo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -32,9 +32,6 @@
   <a href="https://github.com/danielalmeidatoledo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielalmeidatoledo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalmeidatoledo&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielalmeidatoledo&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="DanielAlmeidaToledo" /></p>
 </div>
   
 <div align="center">
