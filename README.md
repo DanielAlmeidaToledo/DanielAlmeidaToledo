@@ -1,4 +1,4 @@
-![TechBlue Gradient Header Banner](https://user-images.githubusercontent.com/96501443/201989091-45664921-7d06-4a39-9985-e5c30bd907b4.png))](https://portfolio-danieltoledo.vercel.app/)
+<a href="[https://www.linkedin.com/in/danielalmeidadetoledo/](https://portfolio-danieltoledo.vercel.app/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://user-images.githubusercontent.com/96501443/201989091-45664921-7d06-4a39-9985-e5c30bd907b4.png)" alt="DanielToledo"/></a>
 <h1 align="center">Hi 👋, I'm Daniel Toledo</h1>
 <h3 align="center">A Front End developer from Brazil</h3>
 
