@@ -1,4 +1,4 @@
-[![DanielToledo](https://user-images.githubusercontent.com/96501443/211895491-bbf1976c-74e9-4bbb-a952-77f380769872.png)](https://portfolio-danieltoledo.vercel.app/)
+[![DanielToledo](https://user-images.githubusercontent.com/96501443/211905673-e635b9ed-894f-4712-85be-7dac7a5c6ebf.png)](https://portfolio-danieltoledo.vercel.app/)
 
 <h1 align="center">Olá 👋, Eu sou o Daniel Toledo</h1>
 <h3 align="center">Desenvolvedor Front-End Júnior</h3>
