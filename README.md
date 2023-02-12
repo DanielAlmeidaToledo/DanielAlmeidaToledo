@@ -4,7 +4,7 @@
 <h3 align="center">Desenvolvedor Front-End Júnior</h3>
 </br>
 
-- 👨🏻‍💻 Trabalho como **Estagiário de Desenvolvimento**
+- 👨🏻‍💻 Atuo como **Desenvolvedor Front-end Júnior**
 
 - 🚀 Atualmente estou estudando **React.JS**, **Next.JS** e **Typescript**
 
