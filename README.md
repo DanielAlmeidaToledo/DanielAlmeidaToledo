@@ -1,10 +1,9 @@
 [![DanielToledo](https://user-images.githubusercontent.com/96501443/211905673-e635b9ed-894f-4712-85be-7dac7a5c6ebf.png)](https://portfolio-danieltoledo.vercel.app/)
 
 <h1 align="center">Olá 👋, Eu sou o Daniel Toledo</h1>
-<h3 align="center">Desenvolvedor Front-End Júnior</h3>
 </br>
 
-- 👨🏻‍💻 Atuo como **Desenvolvedor Front-end Júnior**
+- 👨🏻‍💻 Atuo como **Desenvolvedor Front-end**
 
 - 🚀 Atualmente estou estudando **React.JS**, **Next.JS** e **Typescript**
 
