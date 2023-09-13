@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Atuo como **Desenvolvedor Front-end**
 
-- 🚀 Atualmente estou estudando **React.JS**, **Next.JS** e **Typescript**
+- 🚀 Atualmente estou estudando **React.JS**, **Next.JS**, **Typescript** e **Python**
 
 - 📫 Email para contato: **danieltoledo.dev@gmail.com**
 </br>
