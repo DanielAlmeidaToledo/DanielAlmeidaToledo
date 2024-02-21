@@ -13,5 +13,5 @@
 ## <center> Tecnologias:
 </br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,python,dotnet,cs,angular,next,ts,js,nodejs,nest,aws,docker,jest,figma" />
+    <img src="https://skillicons.dev/icons?i=react,python,dotnet,cs,angular,next,ts,js,nodejs,nest,aws,docker,jest,figma,git" />
 </div></br>
