@@ -2,7 +2,7 @@
 
 <h1 align="center"></h1></br>
 
-- 👨🏻‍💻 Atuo como **Software Developer**
+- 👨🏻‍💻 Atuo como **IT Analyst**
 
 - 🖥️ Portfólio: **https://danieltoledo.vercel.app/**
   
@@ -13,5 +13,5 @@
 ## <center> Tecnologias:
 </br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,python,next,angular,ts,js,nodejs,nest,aws,jest,scss,bootstrap,tailwind,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=react,python,dotnet,cs,angular,next,ts,js,nodejs,nest,aws,docker,jest,figma" />
 </div></br>
